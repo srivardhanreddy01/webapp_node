@@ -15,7 +15,7 @@ const  sequelize = new Sequelize(
 	}
   );
 
-  const s="1233"
+  const s="1111"
 
 app.use(express.json())
  
